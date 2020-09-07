@@ -7,3 +7,6 @@
 [submodule "python3-trainning-oo2"]
 	path = python3-trainning-oo2
 	url = https://github.com/felipebln/python3-trainning-oo2.git
+[submodule "python3-trainning-tdd"]
+	path = python3-trainning-tdd
+	url = https://github.com/felipebln/python3-trainning-tdd.git
