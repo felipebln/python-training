@@ -1,0 +1,6 @@
+[submodule "python3-trainning-games"]
+	path = python3-trainning-games
+	url = git@github.com:felipebln/python3-trainning-games.git
+[submodule "python3-trainning-oo"]
+	path = python3-trainning-oo
+	url = https://github.com/felipebln/python3-trainning-oo.git
