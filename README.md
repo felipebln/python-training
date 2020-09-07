@@ -1,2 +1,2 @@
-# python-training
-Training Python
+# python3-training
+Training Python3
